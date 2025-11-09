@@ -1,6 +1,6 @@
 @charset "UTF-8";
 body {
-	background-color: #F2F2F2;
+	background-color: #FFC7CD;
 	margin: 0;
 	padding: 0;
 	line-height: 1.6;
@@ -94,7 +94,7 @@ aside {
 	margin: 0;
 	font-weight: bold;
 	color: #E3E3E2;
-	background: #003366;
+	background: #332829;
 	border-radius: 5px 5px 0 0;
 }
 .side {
